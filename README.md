@@ -56,8 +56,8 @@
 ![image](https://github.com/Yuvaranithulasingam/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/121418522/673d2dae-79e7-4862-9c0d-5163e29ae703)
 
 
-### Name:Yuvarani T
-### Register Number: 212222110057
+### Name:VARSHINI S A
+### Register Number: 212222100059
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
